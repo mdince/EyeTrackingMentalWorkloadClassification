@@ -1,5 +1,7 @@
 Mental Workload Classification with Eye Tracking Data
 
+! First run preprocessing.m then ml_mw.py
+
 Dataset: Eye-tracking data from the COLET dataset (.mat).
 
 Citation and link: https://zenodo.org/records/7766785
